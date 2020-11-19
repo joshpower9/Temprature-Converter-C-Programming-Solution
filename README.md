@@ -7,4 +7,4 @@ To build on linux use gcc
 # Running
 To run use
 `./main 10 20 5`
-replacing 10 with the lowest temprature, 20 with the highest temprature and 5 with the step.
+replacing 10 with the lowest temprature, 20 with the highest temprature and 5 with the step. (Step being the amount the temprature increases each time.)
