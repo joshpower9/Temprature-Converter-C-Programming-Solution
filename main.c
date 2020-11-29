@@ -8,7 +8,6 @@
  * The amount to step
  */
 int main(int argc, char *argv[]){
-
     // First Check all arguments filled
     if (argc != 4){
         printf("Please enter 3 arguments\n");
